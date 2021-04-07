@@ -13,7 +13,7 @@ In this demo. we will:
 #2 briefly show the Cassandra Query Language (CQL) console,
 #3 briefly show how to collect database metadata (e.g., ID, region, etc.), 
 #4 populate Python script with database metadata,
-#5 use Python script, only using a http libray and a JSON parser (i.e., no Cassandra drivers), to load JSON data (i.e., documents) into our database, 
+#5 use Python script, only using a http library and a JSON parser (i.e., no Cassandra drivers), to load JSON data (i.e., documents) into our database, 
 #6 review JSON datasets,
 #7 use Swagger to visually render documentation for Stargate's Document API, and
 #8 use Postman, a collaboration platform for API development, to query data. 
